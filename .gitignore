@@ -4,3 +4,5 @@ ref_test/
 test/
 build/
 damage_ratio_calculator.zzz
+__pycache__/
+*.pptx
